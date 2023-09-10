@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=M576WGiDBdQ
 
 BLOCK-CHAIN TUTORIAL
-> PROJECT: "SHARKBYTE"
+> PROJECT: "SharkByte"
 >> PHASE: 1
 >> DESCRIPTION: Sharkbyte is a blockchain that ensures transaction security. With every coin traded (coin dependent) a SharkByte" is generated and provisioned to the buyer ensuring that ownership & vendor meta-data is attributed on every exchange.
 >> 
