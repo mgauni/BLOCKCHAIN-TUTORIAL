@@ -8,7 +8,7 @@ BLOCK-CHAIN TUTORIAL
 >> 
 >> Using the 'SharkByte' blockchain as a security layer ensures each block and sub-block traded was owned by legitimate third-parties either officiated through legal business designations or as legal third-party owners.
 >>>
->>> The basis is that exchange is faciliated by contractual trust. SharkByte reconciles risk by guaranteeing, to whatever degree is realistic, vendors are reputable & are sole guarantors of a transaction; meaning, the money transacted does not represent ill-acquired gains in any regard & tha the exchange is what it is - integrity. 
+>>> The basis is that exchange is faciliated by contractual trust. SharkByte reconciles risk by guaranteeing, to whatever degree is realistic, vendors are reputable & are sole guarantors of a transaction; meaning, the money transacted does not represent ill-acquired gains in any regard & that the exchange is what it is - integrity. 
 
 
 # ... 
